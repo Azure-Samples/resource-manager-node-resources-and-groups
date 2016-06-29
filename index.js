@@ -36,7 +36,7 @@ msRestAzure.loginWithServicePrincipalSecret(clientId, secret, domain, function (
   resourceClient = new ResourceManagementClient(credentials, subscriptionId);
   // Work flow of this sample:
   // 1. create a resource group 
-  // 2. list a resource group
+  // 2. list resource groups
   // 3. update a resource group
   // 4. create a key vault resource in the resource group
   // 5. get details for a given resource
