@@ -1,7 +1,7 @@
 ---
 services: azure-resource-manager
 platforms: nodejs
-author: hach
+author: haocs
 ---
 
 # Manage Azure resources and resource groups with Node.js
