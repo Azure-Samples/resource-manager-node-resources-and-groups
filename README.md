@@ -8,7 +8,7 @@ author: haocs
 
 This sample explains how to manage your
 [resources and resource groups in Azure](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/#resource-groups)
-using the Azure Ruby SDK.
+using the Azure SDK for Node.js.
 
 **On this page**
 
