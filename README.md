@@ -1,7 +1,11 @@
 ---
-services: azure-resource-manager
-platforms: nodejs
-author: haocs
+page_type: sample
+languages:
+- javascript
+products:
+- azure
+description: "This sample explains how to manage your resources and resource groups in Azure using the Azure SDK for Node.js."
+urlFragment: resource-manager-node-resources-and-groups
 ---
 
 # Manage Azure resources and resource groups with Node.js
